@@ -1,4 +1,4 @@
-# -Nano-Banana-Pro
+# Nano Banana Pro
 
 【手绘总结】
 请根据输入内容提取核心主题与要点，生成一张卡通风格的信息图： 
